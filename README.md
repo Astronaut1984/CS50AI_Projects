@@ -23,6 +23,12 @@ TL;DR: This repository contains my coursework for Harvard's CS50xAI course (CS50
 - Each project generally contains a main driver or runner file (look for filenames like runner.py, *.py in top of each folder). Consult those files for usage examples.
 - For exercises that load data (CSV, text, or models), ensure relative data folders remain adjacent to the code (do not move data out of its folder unless updating code paths).
 
+## Academic Honesty & Usage Policy
+
+This repository is maintained strictly for documentation, learning review, and personal portfolio demonstration. 
+If you are currently enrolled in Harvard's CS50xAI (or any equivalent course), **please do not copy or plagiarize any code from this repository.** Doing so violates the [CS50 Academic Honesty Policy](https://cs50.harvard.edu/ai/honesty/). 
+I do not authorize the redistribution, reproduction, or modification of this code for the purpose of submitting it for course credit.
+
 ## Badges & Useful Links
 - [Official course page](https://cs50.harvard.edu/ai/)
 - [Certificate link](https://cs50.harvard.edu/certificates/d32cdd55-1fb8-4022-abfa-e1c8d02b638e)
